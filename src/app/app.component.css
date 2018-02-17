@@ -1,0 +1,16 @@
+
+#navdiv {
+	background: #dad6d6;
+	height: 80px;
+	text-align: right;
+}
+
+#icondiv {
+	float: left;
+}
+
+.navmenuclass {
+	font-size: 150%;
+	padding-right: 30px;
+	float: right;
+}

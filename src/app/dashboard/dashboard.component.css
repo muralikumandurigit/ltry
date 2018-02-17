@@ -1,0 +1,27 @@
+.row {
+
+}
+.cell {
+	font-size: 150%;
+	padding-right: 30px;
+	float: right;
+	font-weight: bold;
+}
+
+table {
+    border:none;
+    border-collapse: collapse;
+}
+
+table td {
+    border-left: 3px solid #804040;
+    border-right: 3px solid #804040;
+}
+
+table td:first-child {
+    border-left: none;
+}
+
+table td:last-child {
+    border-right: none;
+}
